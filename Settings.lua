@@ -13,7 +13,8 @@ function PXP.initSettings()
         type = "panel",
         name = "PantherXP Settings",
         author = PXP.author,
-        version = PXP.version
+        version = PXP.version,
+        feedback = PXP.feedback
     }
 
     local panel = LAM:RegisterAddonPanel(panelName, panelData)
