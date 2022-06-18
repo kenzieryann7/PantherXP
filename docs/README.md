@@ -1,4 +1,5 @@
-# PantherXP
+# PantherXP 
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 An Add-On for Elder Scrolls Online
 
 A simple Add-On that allows for the XP Bar to be displayed at all times.
