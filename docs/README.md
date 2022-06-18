@@ -1,5 +1,5 @@
 # PantherXP 
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GitHub Release](https://github.com/kenzieryann7/PantherXP/releases/tag/v1.0.0)]()  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 An Add-On for Elder Scrolls Online
 
