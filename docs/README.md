@@ -10,6 +10,12 @@ Setting saves Account-wide across all characters.
 ## Developer
 - Rynzaii
 
+## Preview
+
+![Player Progress XP](./assets/normalXP.png)
+
+![Champion XP](./assets/championXP.png)
+
 ## Contribution
 PantherXP is open source released under the MIT License.
 Feel free to suggest or make any contributions!
