@@ -1,5 +1,5 @@
 # PantherXP 
-[![GitHub Release](https://github.com/kenzieryann7/PantherXP/releases/tag/v1.0.0)]()  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/ArtOfShred/LuiExtended/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
 
 An Add-On for Elder Scrolls Online
 
