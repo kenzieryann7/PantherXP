@@ -1,5 +1,8 @@
 -- Source: https://www.esoui.com/downloads/info7-LibAddonMenu.html
 
+-- ########################################################################################################
+-- Initialize PantherXP Settings using LibAddonMenu2
+-- ########################################################################################################
 function PXP.initSettings()
     local LAM = LibAddonMenu2
     if LAM == nil then return end
