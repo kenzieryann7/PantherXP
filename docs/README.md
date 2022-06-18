@@ -1,10 +1,10 @@
 # PantherXP 
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 An Add-On for Elder Scrolls Online
 
-A simple Add-On that allows for the XP Bar to be displayed at all times.
-
-Setting saves Account-wide across all characters.
+- A simple Add-On that allows for the XP Bar to be displayed at all times.
+- Setting saves Account-wide across all characters.
 
 **PantherXP** references [Slightly Improved™ Experience Bar](https://www.esoui.com/downloads/info73-SlightlyImprovedExperienceBar.html) by [L8Knight](https://www.esoui.com/forums/member.php?action=getinfo&userid=1084). 
 This Add-On as not been updated recently which motivated me to create my very first game Add-On!
