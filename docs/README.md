@@ -18,6 +18,9 @@ Player Progress XP            |  Champion XP
 :-------------------------:|:-------------------------:
 ![Player Progress XP](../assets/normalXP.PNG)  |  ![Champion XP](../assets/championXP.PNG)
 
+## Download from ESOUI
+PantherXP has been uploaded on to [ESOUI](https://www.esoui.com/downloads/info3404-PantherXP.html)
+
 ## Contribution
 PantherXP is open source released under the MIT License.
 Feel free to suggest or make any contributions!
