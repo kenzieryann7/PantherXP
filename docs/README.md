@@ -12,9 +12,9 @@ Setting saves Account-wide across all characters.
 
 ## Preview
 
-![Player Progress XP](./assets/normalXP.png)
+![Player Progress XP](assets/normalXP.png)
 
-![Champion XP](./assets/championXP.png)
+![Champion XP](assets/championXP.png)
 
 ## Contribution
 PantherXP is open source released under the MIT License.
