@@ -1,6 +1,11 @@
 <h1 align='center'>
-    <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="200"/> PantherXP
+    PantherXP
 </h1>
+<p align='center'>
+
+    <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="200"/>
+
+</p>
 <br><br>
 [![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
 
