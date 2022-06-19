@@ -1,4 +1,4 @@
-# ![Player Progress XP](../assets/pantherXP.png) PantherXP 
+# <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="200"/> PantherXP 
 [![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/ArtOfShred/LuiExtended/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
 
 An Add-On for Elder Scrolls Online
