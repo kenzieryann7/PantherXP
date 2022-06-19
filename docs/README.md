@@ -1,13 +1,10 @@
 <h1 align='center'>
     <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="200"/> PantherXP
 </h1>
-<p align='center'>
-    [![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/ArtOfShred/LuiExtended/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
-
-    An Add-On for Elder Scrolls Online
-
-</p>
 <br><br>
+[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
+
+An Add-On for Elder Scrolls Online
 
 ## Features
 - A simple Add-On that allows for the XP Bar to be displayed at all times.
