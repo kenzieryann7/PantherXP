@@ -1,5 +1,5 @@
 # <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="150"/> PantherXP 
-[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
+[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP)](https://github.com/kenzieryann7/PantherXP/releases/tag/v1.1.0) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
 
 An Add-On for Elder Scrolls Online
 
