@@ -1,0 +1,18 @@
+<!--
+    PantherXP
+    Author: Rynzaii
+    The MIT License
+ -->
+
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="PantherXP" clampedToScreen="true" mouseEnabled="true" movable="true" resizeToFitDescendents="true">
+            <Controls>
+                <Label name="$(parent)Text" width="200" height="16" inheritAlpha="true" color="FFFF"
+                    wrapMode="ELLIPSIS" verticalAlignment="CENTER" horizontalAlignment="CENTER">
+                <Anchor point="CENTER" relativeTo="$(parent)" relativePoint="BOTTOM" />
+                </Label>
+            </Controls>
+        </TopLevelControl>
+    </Controls> 
+</GuiXml>
