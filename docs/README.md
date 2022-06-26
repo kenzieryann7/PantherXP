@@ -1,10 +1,15 @@
-# PantherXP 
-[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/ArtOfShred/LuiExtended/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
+# <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="150"/> PantherXP 
+[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
 
 An Add-On for Elder Scrolls Online
 
+## Features
 - A simple Add-On that allows for the XP Bar to be displayed at all times.
 - Setting saves Account-wide across all characters.
+- Customizable XP Label overlay
+    - Font face
+    - Font size
+    - XP Label formatting
 
 **PantherXP** references [Slightly Improved™ Experience Bar](https://www.esoui.com/downloads/info73-SlightlyImprovedExperienceBar.html) by [L8Knight](https://www.esoui.com/forums/member.php?action=getinfo&userid=1084). 
 This Add-On as not been updated recently which motivated me to create my very first game Add-On!
@@ -12,11 +17,12 @@ This Add-On as not been updated recently which motivated me to create my very fi
 ## Developer
 - Rynzaii
 
-## Preview
+## Preview Examples
 
 Player Progress XP            |  Champion XP
 :-------------------------:|:-------------------------:
-![Player Progress XP](../assets/normalXP.PNG)  |  ![Champion XP](../assets/championXP.PNG)
+![Player Progress XP](../assets/normalXP_1.PNG)  |  ![Champion XP](../assets/championXP_1.PNG)
+![Player Progress XP](../assets/normalXP_2.PNG)  |  ![Champion XP](../assets/championXP_2.PNG)
 
 ## Download from ESOUI
 PantherXP has been uploaded on to [ESOUI](https://www.esoui.com/downloads/info3404-PantherXP.html)
