@@ -1,5 +1,5 @@
-# <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="200"/> PantherXP 
-[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/ArtOfShred/LuiExtended/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
+# <img src="../assets/pantherXP.png" alt="PantherXP Icon" width="150"/> PantherXP 
+[![Current Release](https://img.shields.io/github/release/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/releases) [![GitHub license](https://img.shields.io/github/license/kenzieryann7/PantherXP.svg)](https://github.com/kenzieryann7/PantherXP/blob/master/LICENSE)
 
 An Add-On for Elder Scrolls Online
 
@@ -17,7 +17,7 @@ This Add-On as not been updated recently which motivated me to create my very fi
 ## Developer
 - Rynzaii
 
-## Preview
+## Preview Examples
 
 Player Progress XP            |  Champion XP
 :-------------------------:|:-------------------------:
