@@ -102,6 +102,17 @@ function PXP.initSettings()
             default = Default.XPLabelFormat
         },
         {
+            -- Check placement for XP Label
+            type = "dropdown",
+            name = "XP Label Placement",
+            tooltip = "Select where on the XP Bar to display the XP Label.",
+            choices = PXP.labelPlacements,
+            getFunc = function() return Settings.XPLabelPlacement end,
+            setFunc = function(value) Settings.XPLabelPlacement = value PXP.UpdateSettings() end,
+            width = "full",
+            default = Default.XPLabelPlacement
+        },
+        {
             -- Check selected Font Size
             type = "slider",
             name = "Font Size",
@@ -237,6 +248,26 @@ function PXP.CreateXPLabel(font)
     end
 end
 
+-- ########################################################################################################
+-- Determine XP Label's Anchor
+--  - Depending on saved placement variable, the XP Label will be placed relative to the XP Bar
+--  - Options: Top, Center, Bottom
+--
+-- ########################################################################################################
+function PXP.DetermineAnchor()
+    -- Place on top of the XP Bar
+    if PXPSV.Default[GetDisplayName()]['$AccountWide'].XPLabelPlacement == "Top" then
+        PantherXPText:SetAnchor(RIGHT, ZO_PlayerProgressBar, RIGHT, 0, -25)
+    
+    -- Place in the center of the XP Bar
+    elseif PXPSV.Default[GetDisplayName()]['$AccountWide'].XPLabelPlacement == "Center" then
+        PantherXPText:SetAnchor(CENTER, ZO_PlayerProgressBar, CENTER, 0, -1)
+    
+    -- Place below the XP Bar
+    else
+        PantherXPText:SetAnchor(RIGHT, ZO_PlayerProgressBar, RIGHT, 0, 25) 
+    end
+end
 
 -- ########################################################################################################
 -- Refresh XP text label to reflect updated values when XP Bar updates
@@ -268,12 +299,14 @@ function PXP.RefreshLabelOnUpdate()
 
         -- Check if XP percent should be displayed
         if PXPSV.Default[GetDisplayName()]['$AccountWide'].showXPPercentage == true then
-            PantherXPText:SetAnchor(CENTER, ZO_PlayerProgressBar, CENTER, 0, -1)
+            --PantherXPText:SetAnchor(CENTER, ZO_PlayerProgressBar, CENTER, 0, -1)
+            PXP.DetermineAnchor()
             PantherXPText:SetText(zo_strformat("<<1>> / <<2>> XP [<<3>>%]", playerCurrXP, playerMaxXP, playerPercent))
         
         -- If XP Percentage setting is to not be displayed, do:
         else
-            PantherXPText:SetAnchor(CENTER, ZO_PlayerProgressBar, CENTER, 0, -1)
+            --PantherXPText:SetAnchor(CENTER, ZO_PlayerProgressBar, CENTER, 0, -1)
+            PXP.DetermineAnchor()
             PantherXPText:SetText(zo_strformat("<<1>> / <<2>> XP", playerCurrXP, playerMaxXP))
         end
 

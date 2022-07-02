@@ -1,5 +1,19 @@
 # Changelog
 
+## Version 1.2.0
+
+### What's changed? ❗❗❗
+- You can now choose the placement of the XP Label relative to the XP Bar.
+
+### Features 🚀 
+- Choose where to display the XP Label relative to the XP Bar.
+- Placement Options:
+    - Top
+    - Center
+    - Bottom
+
+<hr>
+
 ## Version 1.1.0
 
 ### What's changed? ❗❗❗

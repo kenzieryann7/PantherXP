@@ -18,7 +18,6 @@ local function LoadSavedVars()
     PXP.sv = ZO_SavedVars:NewAccountWide(PXP.svName, PXP.svVersion, nil, PXP.default)
 end
 
-
 -- ########################################################################################################
 -- Scenes to show XP Text
 --
