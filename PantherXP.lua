@@ -27,7 +27,7 @@ PXP.default = {
     showXPBar               = false,
     showXPLabel             = false,
     XPLabelFormat           = "No formatting",
-    XPLabelPlacement        = "Top",
+    XPLabelPlacement        = "Center",
     defaultFontName         = "Default",
     defaultFontSize         = 20
 }
@@ -41,7 +41,7 @@ PXP.labelFormats = {
 
 -- XP Label placement choices
 PXP.labelPlacements = {
-    "Top",
+    "Top [Excludes Champion]",
     "Center",
     "Bottom"
 }
