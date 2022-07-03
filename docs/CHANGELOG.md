@@ -10,7 +10,7 @@
 ### Features 🚀 
 - Choose where to display the XP Label relative to the XP Bar.
 - Placement Options:
-    - Top __[Excludes Champion]__
+    - Top [Excludes Champion]
     - Center
     - Bottom
 
