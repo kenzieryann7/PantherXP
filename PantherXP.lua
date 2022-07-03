@@ -27,6 +27,7 @@ PXP.default = {
     showXPBar               = false,
     showXPLabel             = false,
     XPLabelFormat           = "No formatting",
+    XPLabelPlacement        = "Center",
     defaultFontName         = "Default",
     defaultFontSize         = 20
 }
@@ -36,6 +37,13 @@ PXP.labelFormats = {
     "No formatting",
     "Format with commas",
     "Abbreviate Long XP values [Champion only]"
+}
+
+-- XP Label placement choices
+PXP.labelPlacements = {
+    "Top [Excludes Champion]",
+    "Center",
+    "Bottom"
 }
 
 -- Local ESO in-game fonts

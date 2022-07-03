@@ -1,5 +1,22 @@
 # Changelog
 
+## Version 1.2.0
+
+### What's changed? ❗❗❗
+- You can now choose the placement of the XP Label relative to the XP Bar.
+- If you are at Champion Level, you cannot place XP Label above the XP Bar as it overlays pre-existing text.
+    - If Top placement is the selected option, it will resort to displaying below the XP Bar.
+- If XP Label is placed below XP Bar, while hovering the XP Bar the XP Label will hide to show the XP Bar's tooltip. Otherwise, the Label will appear before the tooltip.
+
+### Features 🚀 
+- Choose where to display the XP Label relative to the XP Bar.
+- Placement Options:
+    - Top [Excludes Champion]
+    - Center
+    - Bottom
+
+<hr>
+
 ## Version 1.1.0
 
 ### What's changed? ❗❗❗
