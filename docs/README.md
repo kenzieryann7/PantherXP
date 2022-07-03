@@ -22,8 +22,8 @@ This Add-On as not been updated recently which motivated me to create my very fi
 
 Player Progress XP            |  Champion XP
 :-------------------------:|:-------------------------:
-![Player Progress XP](../assets/normalXP_1.PNG)  |  ![Champion XP](../assets/championXP_1.PNG)
-![Player Progress XP](../assets/normalXP_2.PNG)  |  ![Champion XP](../assets/championXP_2.PNG)
+![Player Progress XP](../assets/normalXP1.PNG)  |  ![Champion XP](../assets/championXP1.PNG)
+![Player Progress XP](../assets/normalXP2.PNG)  |  ![Champion XP](../assets/championXP2.PNG)
 
 ## Download from ESOUI
 PantherXP has been uploaded on to [ESOUI](https://www.esoui.com/downloads/info3404-PantherXP.html)
