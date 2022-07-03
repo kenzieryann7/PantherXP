@@ -11,7 +11,7 @@ if PXP == nil then PXP = {} end
 
 PXP.tag         = "PXP"
 PXP.name        = "PantherXP"
-PXP.version     = "1.1.0"
+PXP.version     = "1.2.0"
 PXP.author      = "Rynzaii"
 PXP.github      = "https://github.com/kenzieryann7/PantherXP"
 PXP.feedback    = "https://github.com/kenzieryann7/PantherXP/issues"
