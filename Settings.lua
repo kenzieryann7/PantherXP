@@ -257,7 +257,7 @@ end
 -- ########################################################################################################
 function PXP.DetermineAnchor()
     -- Place on top of the XP Bar
-    --  - Not possible for Champion due to Champion text above XP Bar
+    --  - Not possible for Champion due to pre-existing Champion text above XP Bar
     if IsUnitChampion("player") == false and PXPSV.Default[GetDisplayName()]['$AccountWide'].XPLabelPlacement == "Top [Excludes Champion]" then
         PantherXPText:SetAnchor(RIGHT, ZO_PlayerProgressBar, RIGHT, 0, -25)
     
@@ -286,6 +286,7 @@ end
 --
 -- ########################################################################################################
 function PXP.RefreshLabelOnUpdate()
+
     -- Local variables to get player's current XP, max XP, and XP percent values
     local playerPercent = PXP.GetPlayerXPPercent(PXP.GetPlayerXP(), PXP.GetPlayerXPMax()) --PXP.commaSplitter()
     local playerCurrXP
@@ -324,9 +325,8 @@ function PXP.RefreshLabelOnUpdate()
 
     else
         PantherXPText:SetHidden(true)
-    end
 
-    
+    end
 end
 
 
@@ -338,6 +338,7 @@ function PXP.UpdateSettings()
     PXP.ShowXPBar()
     PXP.CreateXPLabel(PXPSV.Default[GetDisplayName()]['$AccountWide'].defaultFontName)
     PXP.RefreshLabelOnUpdate()
+
 end
 
 
@@ -364,6 +365,7 @@ end
 -- ########################################################################################################
 function PXP.ResetDefaultSettings() 
     PXP.sv = ZO_SavedVars:NewAccountWide(PXP.svName, PXP.svVersion - 1, nil, PXP.default)
+
 end
 
 
