@@ -2,8 +2,8 @@
 ## Author: Rynzaii
 ## Version: 1.2.0
 ## Description: Allows for the XP Bar to be displayed at all times. Customizable XP label overlay. 
-## APIVersion: 101034
-## AddOnVersion: 10200
+## APIVersion: 101036
+## AddOnVersion: 20000
 ## DependsOn: LibAddonMenu-2.0
 ## IsLibrary: False
 ## SavedVariables: PXPSV

@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.0.0
+
+### What's changed? ❗❗❗
+- API version updated for ESO 8.2 (includes Lost Depths and Firesong).
+
+<hr>
+
 ## Version 1.2.0
 
 ### What's changed? ❗❗❗
