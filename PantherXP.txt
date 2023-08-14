@@ -1,9 +1,9 @@
 ## Title: PantherXP
 ## Author: Rynzaii
-## Version: 1.2.0
+## Version: 2.1.0
 ## Description: Allows for the XP Bar to be displayed at all times. Customizable XP label overlay. 
-## APIVersion: 101036
-## AddOnVersion: 20000
+## APIVersion: 101038
+## AddOnVersion: 201000
 ## DependsOn: LibAddonMenu-2.0
 ## IsLibrary: False
 ## SavedVariables: PXPSV

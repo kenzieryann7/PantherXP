@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 2.1.0
+
+### What's changed? ❗❗❗
+- API version updated for ESO 9.0.
+
+<hr>
+
 ## Version 2.0.0
 
 ### What's changed? ❗❗❗
